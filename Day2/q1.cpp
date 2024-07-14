@@ -1,3 +1,5 @@
+// # Day2 question 1 - (26. Remove Duplicates from Sorted Array)
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {

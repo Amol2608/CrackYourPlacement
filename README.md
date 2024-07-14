@@ -5,5 +5,5 @@
 
 ## Day 2
 
-1. [20. Valid Parentheses](#20-valid-parantheses)
-2. [26. Remove Duplicates from Sorted Array](#26-remove-duplicates-from-sorted-array)
+1. [26. Remove Duplicates from Sorted Array](#26-remove-duplicates-from-sorted-array)
+2. [20. Valid Parentheses](#20-valid-parantheses)

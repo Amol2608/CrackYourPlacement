@@ -1,4 +1,4 @@
-// # Day3 question 4 - (141. Linked List Cycle)
+// # Day4 question 1 - (141. Linked List Cycle)
 
 /**
  * Definition for singly-linked list.

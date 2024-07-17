@@ -12,3 +12,12 @@
 
 1. [73. Set Matrix Zeroes](#73-set-matrix-zeroes)
 2. [283. Move Zeroes](#283-move-zeroes)
+3. [876. Middle of the Linked List](#876-middle-of-the-linked-list)
+
+## Day 4
+
+1. [141. Linked List Cycle](#141-linked-list-cycle)
+2. [1290. Convert Binary Number in a Linked List to Integer](#1290-convert-binary-number-in-a-linked-list-to-integer)
+3. [543. Diameter of Binary Tree](#543-diameter-of-binary-tree)
+4. [226. Invert Binary Tree](#226-Invert-Binary-Tree)
+5. [680. Valid Palindrome II](#680-Valid-Palindrome-II)

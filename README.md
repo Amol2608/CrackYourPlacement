@@ -19,3 +19,5 @@
 1. [141. Linked List Cycle](#141-linked-list-cycle)
 2. [1290. Convert Binary Number in a Linked List to Integer](#1290-convert-binary-number-in-a-linked-list-to-integer)
 3. [543. Diameter of Binary Tree](#543-diameter-of-binary-tree)
+4. [226. Invert Binary Tree](#226-Invert-Binary-Tree)
+5. [680. Valid Palindrome II](#680-Valid-Palindrome-II)
